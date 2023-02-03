@@ -1,5 +1,5 @@
 # Image-compression
-A black and white photo can be interpreted as a matrix $A$ with size the number of pixels in which each entry is an integer number from $0$ (black) to $255$ (white) 
+A black and white photo can be interpreted as a matrix $A$ with size the number of pixels in which each entry is an integer number from $0$ (black) to $255$ (white), 
 forming a greayscale. Similarly, a color photo is usually represented in an RGB scale: for each pixel we have $3$ values instead of $1$, therefore the image is
 reseprented in $3$ matrices, one corresponding to each color layer (Reg, Green and Blue).
 
